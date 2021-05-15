@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/kingluddite/bootcamp-week-03-review/issues"
   },
-  "homepage": "https://github.com/kingluddite/bootcamp-week-03-review#readme"
+  "homepage": "https://github.com/kingluddite/bootcamp-week-03-review#readme",
+  "dependencies": {
+    "font-awesome": "^4.7.0"
+  }
 }
